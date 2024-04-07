@@ -1,0 +1,5 @@
+.DS_Store
+SMETvenvFinal
+.ipynb_checkpoints/
+*.ipynb
+__pycache__/*
